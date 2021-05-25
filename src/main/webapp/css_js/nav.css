@@ -1,0 +1,32 @@
+.blue{
+	background:#3a1435;
+
+}
+body{
+	background-color: activeborder!important;
+}
+.admin .card{
+	border: 1px solid #3a1435;
+}
+
+.c1:hover {
+	background: #e2e2e2;
+	cursor: pointer;
+}
+
+
+.list-group-item.active{
+	background:#3a1435!important; 
+	border-color: #3a1435!important; 
+}
+
+.discount-label{
+	font-size: 10px!important;
+	font-style: italic!important;
+	text-decoration:line-through;
+}
+.foot{
+	margin-bottom: 0rem!important;
+	background-color: #3a1435!important;
+	
+}
